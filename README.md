@@ -35,7 +35,7 @@ Once a user selects a city, they are brought to the city's main page. This page 
 
 ### Video Pages
 
-Clicking on a particular video thumbnail takes the user to the video's page. This page includes the video itself, as well as current comments and likes. Users can play the video, like the video, and add a comment to the list of comments.
+Clicking on a particular video thumbnail takes the user to the video's page. This page includes the video itself, as well as current comments and likes. Users can play the video, like the video, and add a comment.
 
 <img src="./assets/video-comment.gif" alt="video page" width="800"/>
 
@@ -45,7 +45,7 @@ Comments posted by the user may also be edited and deleted.
 
 ### Uploading Videos
 
-On the profile page, there is a upload video button. When clicked, a form appears where the user may go through the prompts and upload a video using a YouTube watch url. Once uploaded, the user is brought to the video's page.
+On the profile page, there is an upload video button. When clicked, a form appears where the user may go through the prompts and upload a video using a YouTube watch url. Once uploaded, the user is brought to the video's page.
 
 <img src="./assets/upload.gif" alt="upload video" width="800"/>
 
