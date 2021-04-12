@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Youtravel-logo.png" alt="YouTravel Logo" width="1200"/>
 
-`YouTravel`is a single-page application (SPA) video platform for travelers to share and discover videos from cities across the world.
+`YouTravel`is a single-page application (SPA) video platform for travelers to share and discover videos from cities across the world. Inspired by [YouTube](https://www.youtube.com/).
 
 Requires [YouTravel front end](https://github.com/jeffreyc86/youtravel-frontend) and [YouTravel back end](https://github.com/jeffreyc86/youtravel-backend).
 
