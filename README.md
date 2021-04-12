@@ -33,7 +33,7 @@ Upon a successful login, a user will be taken to their profile page, which conta
 
 ### Cities
 
-When a user clicks on the "Cities" tab, they will be brought to the main cities page. When hovering over an image of a city, the static image will animate.
+When a user clicks on the `Cities` tab, they will be brought to the main cities page. When hovering over an image of a city, the static image will animate.
 
 <img src="./assets/cities.gif" alt="cities" width="800"/>
 
@@ -65,7 +65,7 @@ On the video's page, the user also has the ability to delete the video.
 
 ### Logging Out
 
-Being that YouTravel is a single page application, when a user clicks on the log out tab, the window refreshes. This effectively logs out the current user's session and brings them back to the home page.
+Being that YouTravel is a single page application, when a user clicks on the `Logout` tab, the window refreshes. This effectively logs out the current user's session and brings them back to the home page.
 
 <img src="./assets/logout.gif" alt="logout" width="800"/>
 
