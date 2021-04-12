@@ -1,15 +1,23 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Youtravel-logo.png" alt="YouTravel Logo" width="1200"/>
 
-[YouTravel](https://youtravel.netlify.app/) is a single-page application (SPA) video platform for travelers. The front end was built with vanilla Javascript and the back end was built using a Ruby on Rails API.
-
-Created in partnership with Flatiron School cohort-mate [Jacob Marthaller](https://github.com/jmarthaller).
-
-[Live Link](https://youtravel.netlify.app/) / [Demo](https://www.loom.com/share/7fd0bb35571a4eb8bfdef9d2c4ea1c3e)
+`YouTravel`is a single-page application (SPA) video platform for travelers to share and discover videos from cities across the world.
 
 Requires [YouTravel front end](https://github.com/jeffreyc86/youtravel-frontend) and [YouTravel back end](https://github.com/jeffreyc86/youtravel-backend).
 
+Created in partnership with Flatiron School cohort-mate [Jacob Marthaller](https://github.com/jmarthaller).
+
+## Live Link & Demo
+
+Visit the [Live Link](https://youtravel.netlify.app/)
+
+Watch the [Demo](https://www.loom.com/share/7fd0bb35571a4eb8bfdef9d2c4ea1c3e)
+
+## Technologies Used
+
+The front end was built with vanilla `Javascript` and the back end was built using `Ruby on Rails` and `PostgreSQL`. `YouTravel` relies on gifs, videos sourced from YouTube, and other imagery to guide users through the application.
+
 ## Features
-YouTravel is a website that allows users to watch videos containing information, tips, and tricks about how & where to travel to various global cities. YouTravel relies on gifs, videos sourced from YouTube, and other imagery to guide users through the application.
+`YouTravel` allows users to watch videos containing information, tips, and tricks about how & where to travel within various global cities. 
 
 ### User Profile
 
