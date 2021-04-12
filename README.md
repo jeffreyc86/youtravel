@@ -14,7 +14,9 @@ Watch the [Demo](https://www.loom.com/share/7fd0bb35571a4eb8bfdef9d2c4ea1c3e)
 
 ## Technologies Used
 
-The front end was built with vanilla `Javascript` and the back end was built using `Ruby on Rails` and `PostgreSQL`. Styling includes contributions from the `Bootstrap` library, as well as custom HTML & CSS. `YouTravel` relies on gifs, videos sourced from YouTube, and other imagery to guide users through the application.
+The front end was built with vanilla `Javascript` and the back end was built using `Ruby on Rails` and `PostgreSQL`. Styling includes contributions from the `Bootstrap` library, as well as custom HTML & CSS. The live link of `YouTravel` is deployed on [Netlify](https://www.netlify.com/) with [Heroku](https://www.heroku.com/) for the back end.
+
+`YouTravel` relies on gifs, videos sourced from YouTube, and other imagery to guide users through the application.
 
 ## Features
 `YouTravel` allows users to watch videos containing information, tips, and tricks about how & where to travel within various global cities. 
