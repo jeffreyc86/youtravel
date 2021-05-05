@@ -4,8 +4,6 @@
 
 Requires [YouTravel front end](https://github.com/jeffreyc86/youtravel-frontend) and [YouTravel back end](https://github.com/jeffreyc86/youtravel-backend).
 
-Created in partnership with Flatiron School cohort-mate [Jacob Marthaller](https://github.com/jmarthaller).
-
 ## Live Link & Demo
 
 Visit the [Live Link](https://youtravel.netlify.app/)
@@ -73,4 +71,4 @@ Being that YouTravel is a single page application, when a user clicks on the `Lo
 
 The [MIT](https://choosealicense.com/licenses/mit/) License
 
-Copyright (C) 2021 - [Jeffrey Chiu](https://github.com/jeffreyc86) and [Jacob Marthaller](https://github.com/jmarthaller)
+Copyright (C) 2021 - [Jeffrey Chiu](https://jeffreychiu.dev/)
